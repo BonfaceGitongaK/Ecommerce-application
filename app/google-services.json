@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774895816447",
+    "firebase_url": "https://ecommerce-314f5.firebaseio.com",
+    "project_id": "ecommerce-314f5",
+    "storage_bucket": "ecommerce-314f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774895816447:android:f831bd1a8d84f0c7d686ca",
+        "android_client_info": {
+          "package_name": "com.example.bonnie.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774895816447-kuq2gcltdqib3tsru8dh87psrlv9u314.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bonnie.ecommerce",
+            "certificate_hash": "866121e7783c1925072daa534b5d915aacaf5ed8"
+          }
+        },
+        {
+          "client_id": "774895816447-r0fpu2f8rm7l2v6v9bssraqukusuno5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB3u87FNYOaVJ-Z1zq06UABXneV6ABWBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774895816447-r0fpu2f8rm7l2v6v9bssraqukusuno5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
